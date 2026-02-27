@@ -1,0 +1,27 @@
+package entradaDeDados;
+
+import java.util.Scanner;
+
+public class Program {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		String nome;
+		int x;
+		double y;
+		
+		System.out.println("Entre com o Nome: ");
+		nome = sc.next();
+		System.out.println("Entre com um Número Inteiro: ");
+		x = sc.nextInt();
+		System.out.println("Entre com um Número Double: ");
+		y = sc.nextDouble();
+		
+		System.out.println("Nome: ",nome);
+		System.out.println("Número int: ",x);
+		System.out.println("Número double: ",y);
+		
+		sc.close();
+	}
+
+}

@@ -1,0 +1,17 @@
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		String original ="Teste de Sistemas de Informação    ";
+		
+		String s01 = original.toLowerCase();
+		
+		System.out.println("Orignal: "+original + "-");
+		System.out.println("toLowcase: " +s01 + "-");
+		
+		
+
+	}
+
+}

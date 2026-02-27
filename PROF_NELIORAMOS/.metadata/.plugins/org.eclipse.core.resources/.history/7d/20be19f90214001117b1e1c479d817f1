@@ -1,0 +1,33 @@
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		String original ="Teste de Sistemas de Informação    ";
+		
+		String s01 = original.toLowerCase();
+		String s02 = original.toUpperCase();
+		String s03 = original.trim();
+		String s04 = original.substring(2);
+		String s05 = original.substring(2, 9);
+		String s06 = original.replace('e', 'a');
+		String s07 = original.replace("de", "da");
+		int i = original.indexOf("te");
+		int z = original.lastIndexOf("ma");
+		
+		
+		
+		System.out.println("Orignal: "+original + "-");
+		System.out.println("toLowcase: " +s01 + "-");
+		System.out.println("toUppercase: " +s02 + "-");
+		System.out.println("trim: -" +s03 + "-");
+		System.out.println("substring(2): " + s04 + "-");
+		System.out.println("substring(2,9): " + s05 + "-");
+		System.out.println("replace('e', 'a'): " + s06 + "-");
+		System.out.println("replace('de', 'da)': " + s07 + "-");
+		System.out.println("indexOf('te'): " + i + "-");
+		System.out.println("lastIndexOf('ma'): " + z + "-");
+
+	}
+
+}

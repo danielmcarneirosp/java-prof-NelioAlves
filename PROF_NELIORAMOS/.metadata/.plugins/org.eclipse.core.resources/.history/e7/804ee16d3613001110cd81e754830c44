@@ -1,0 +1,18 @@
+package entradaDeDados;
+
+import java.util.Scanner;
+
+public class Program {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		String nome;
+		
+		System.out.println("Entre com o Nome: ");
+		nome = sc.next();
+		System.out.println("Você digitou: "+noem);
+		sc.close();
+
+	}
+
+}

@@ -1,0 +1,6 @@
+void main() {
+	double x= 10.35785;
+	IO.println("Olá Mundo!");
+	System.out.printf("%.2f%n",x);
+	
+}
