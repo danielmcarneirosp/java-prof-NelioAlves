@@ -3,9 +3,15 @@
     <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
-    <fullyQualifiedTypeName name="entities.Employee"/>
     <fullyQualifiedTypeName name="java.rmi.StubNotFoundException"/>
     <fullyQualifiedTypeName name="entities.Student"/>
-    <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="entities.Bank"/>
+    <fullyQualifiedTypeName name="entities.Product"/>
+    <fullyQualifiedTypeName name="entites.People"/>
+    <fullyQualifiedTypeName name="entities.Rooms"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="entities.Employee"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>

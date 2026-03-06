@@ -14,7 +14,7 @@
 	<section name="JavaProjectWizard.dialogBounds">
 		<item key="DIALOG_X_ORIGIN" value="20"/>
 		<item key="DIALOG_Y_ORIGIN" value="20"/>
-		<item key="DIALOG_WIDTH" value="719"/>
+		<item key="DIALOG_WIDTH" value="710"/>
 		<item key="DIALOG_HEIGHT" value="852"/>
 		<item key="DIALOG_FONT_NAME" value="1|Inter|10.0|0|GTK|1|"/>
 	</section>
@@ -83,6 +83,12 @@
 		<item key="FinalModifier" value="false"/>
 		<item key="SynchronizedModifier" value="false"/>
 		<item key="Comments" value="false"/>
+		<item key="LimitElements" value="false"/>
+		<item key="IgnoreDefault" value="true"/>
+		<item key="StringStyle" value="0"/>
+		<item key="LimitValue" value="10"/>
+		<item key="SkipNull" value="false"/>
+		<item key="ToStringTemplateSelected" value="0"/>
 	</section>
 	<section name="AddGetterSetterDialog">
 		<item key="SortOrdering" value="false"/>
@@ -94,5 +100,19 @@
 		<item key="DIALOG_WIDTH" value="617"/>
 		<item key="DIALOG_HEIGHT" value="732"/>
 		<item key="DIALOG_FONT_NAME" value="1|Inter|10.0|0|GTK|1|"/>
+	</section>
+	<section name="DialogBounds_GenerateToStringDialog">
+		<item key="DIALOG_X_ORIGIN" value="20"/>
+		<item key="DIALOG_Y_ORIGIN" value="20"/>
+		<item key="DIALOG_WIDTH" value="526"/>
+		<item key="DIALOG_HEIGHT" value="736"/>
+		<item key="DIALOG_FONT_NAME" value="1|Inter|10.0|0|GTK|1|"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.text.QuickOutline">
+		<item key="GoIntoTopLevelTypeAction.isChecked" value="false"/>
+		<item key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_WIDTH" value="550"/>
+		<item key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_HEIGHT" value="440"/>
+		<item key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_USE_PERSISTED_SIZE" value="true"/>
+		<item key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_USE_PERSISTED_LOCATION" value="false"/>
 	</section>
 </section>
