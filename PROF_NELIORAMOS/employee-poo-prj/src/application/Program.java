@@ -25,7 +25,7 @@ public class Program {
 		
 		System.out.printf("\nEmployee: %s, $ %.2f%n",emp.name,emp.netSalary());
 		
-		System.out.print("\nWhich percetage to increase salary? ");
+		System.out.print("\nWhich percentage to increase salary? ");
 		double perc = sc.nextDouble();
 		emp.increaseSalary(perc);
 		
