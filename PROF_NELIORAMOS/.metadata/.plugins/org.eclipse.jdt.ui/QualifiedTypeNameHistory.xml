@@ -43,17 +43,21 @@
     <fullyQualifiedTypeName name="entities.enums.Color"/>
     <fullyQualifiedTypeName name="entities.Rectangle"/>
     <fullyQualifiedTypeName name="entities.Circle"/>
-    <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="entities.Individual"/>
     <fullyQualifiedTypeName name="entities.Company"/>
     <fullyQualifiedTypeName name="java.lang.IndexOutOfBoundsException"/>
-    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
     <fullyQualifiedTypeName name="java.io.IOException"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="com.sun.org.apache.xml.internal.dtm.ref.DTMDefaultBaseIterators.RootIterator"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="model.entities.Reservation"/>
+    <fullyQualifiedTypeName name="java.text.ParseException"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="model.entities.Account"/>
+    <fullyQualifiedTypeName name="model.exceptions.DomainException"/>
 </qualifiedTypeNameHistroy>
